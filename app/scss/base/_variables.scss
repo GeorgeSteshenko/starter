@@ -1,0 +1,32 @@
+// Color vars
+$white: #fff;
+$black: #000;
+$red: #f00;
+$light-gray: #f0f0f0;
+$light-gray-alt: #c7c7c7;
+$gray: #f9f9f9;
+$dark-gray: #232729;
+
+$brand-color: #ff0090;
+$brand-text-color: #9e9e9e;
+
+// Base font sizes
+$font-size-base: 16px;
+
+$font-size-11: floor(($font-size-base * 0.688));
+$font-size-12: floor(($font-size-base * 0.75));
+$font-size-13: floor(($font-size-base * 0.813));
+$font-size-14: floor(($font-size-base * 0.875));
+$font-size-20: ceil(($font-size-base * 1.25));
+
+// Typography
+$font-averta-regular: "averta-regular", Helvetica, Arial, sans-serif;
+$font-averta-medium: "averta-medium", Helvetica, Arial, sans-serif;
+$font-averta-semibold: "averta-semibold", Helvetica, Arial, sans-serif;
+$font-averta-bold: "averta-bold", Helvetica, Arial, sans-serif;
+$font-averta-cyrillic-semibold: "averta-cyrillic-semibold", Helvetica, Arial,
+  sans-serif;
+
+// Pathes
+$font-path: "../fonts";
+$image-path: "../images";

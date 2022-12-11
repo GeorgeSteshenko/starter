@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "averta-medium";
+  src: url("#{$font-path}/averta-medium.eot");
+  src: url("#{$font-path}/averta-medium.eot?#iefix") format("embedded-opentype"),
+    url("#{$font-path}/averta-medium.woff") format("woff"),
+    url("#{$font-path}/averta-medium.ttf") format("truetype"),
+    url("#{$font-path}/averta-medium.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "averta-regular";
+  src: url("#{$font-path}/averta-regular.eot");
+  src: url("#{$font-path}/averta-regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("#{$font-path}/averta-regular.woff") format("woff"),
+    url("#{$font-path}/averta-regular.ttf") format("truetype"),
+    url("#{$font-path}/averta-regular.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "averta-semibold";
+  src: url("#{$font-path}/averta-semibold.eot");
+  src: url("#{$font-path}/averta-semibold.eot?#iefix")
+      format("embedded-opentype"),
+    url("#{$font-path}/averta-semibold.woff") format("woff"),
+    url("#{$font-path}/averta-semibold.ttf") format("truetype"),
+    url("#{$font-path}/averta-semibold.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "averta-cyrillic-semibold";
+  src: url("#{$font-path}/averta-cyrillic-semibold.eot");
+  src: url("#{$font-path}/averta-cyrillic-semibold.eot?#iefix")
+      format("embedded-opentype"),
+    url("#{$font-path}/averta-cyrillic-semibold.woff") format("woff"),
+    url("#{$font-path}/averta-cyrillic-semibold.ttf") format("truetype"),
+    url("#{$font-path}/averta-cyrillic-semibold.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "averta-bold";
+  src: url("#{$font-path}/averta-bold.eot");
+  src: url("#{$font-path}/averta-bold.eot?#iefix") format("embedded-opentype"),
+    url("#{$font-path}/averta-bold.woff") format("woff"),
+    url("#{$font-path}/averta-bold.ttf") format("truetype"),
+    url("#{$font-path}/averta-bold.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
